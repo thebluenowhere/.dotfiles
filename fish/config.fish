@@ -5,6 +5,6 @@ end
 # Alias/Functions 
 alias vim='nvim'
 
-function sudo_vim 
+function sudo_vim
     sudo nvim $argv
 end
