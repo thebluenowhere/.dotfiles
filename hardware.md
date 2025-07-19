@@ -1,4 +1,3 @@
-```markdown
 # PC Hardware Summary
 
 ## System
@@ -35,4 +34,3 @@
 
 ## Audio
 - **HD Audio Controller**: Family 17h/19h/1ah HD Audio Controller
-```
