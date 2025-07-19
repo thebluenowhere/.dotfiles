@@ -6,6 +6,8 @@ return {
         'nvim-telescope/telescope.nvim', 
         tag = '0.1.8', 
         dependencies = { 'nvim-lua/plenary.nvim' } 
-    }
+    }, 
+    -- Adding treesitter plugin
+    {"nvim-treesitter/nvim-treesitter", build = ":TSUpdate"}
 }
 
