@@ -12,6 +12,13 @@
 - networkmanager
 - power-profiles-daemon
 
+## Video Drivers
+- amd-ucode 
+- amdvlk 
+- lib32-amdvlk 
+- linux-firmware-amdgpu 
+- xf86-video-amdgpu 
+
 ## Development Tools
 - git
 - meson
